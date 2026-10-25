@@ -1,0 +1,5 @@
+interface:
+  display_name: "双重机器学习实证分析"
+  short_description: "DML 因果推断实证分析工作流"
+  brand_color: "#7C3AED"
+  default_prompt: "使用 $dml-empirical 根据我提供的数据和变量信息完成完整 DML 实证分析"
